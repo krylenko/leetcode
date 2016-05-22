@@ -3,6 +3,7 @@
 #include<map>
 #include<algorithm>
 #include<stack>
+#include<vector>
 
 /*
 
